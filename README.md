@@ -3,40 +3,34 @@
 	<ul>
 	  <li>Birthday : 07/28/1988</li>
 	  <li>Education : 中國科技大學 - 資訊管理系</li>
-	  <li>Personal Website : <a href="http://github.com/justlike0728">http://github.com/justlike0728</a></li>
 	  <li>Location : Taipei</li>
 	  <li>E-Mail : <a href="mailto:justlike0728@gmail.com">justlike0728@gmail.com</a></li>
 	  <li>Mobile : 0987-424-261</li>
+	  <li>Personal Website : <a href="http://github.com/justlike0728">http://github.com/justlike0728</a></li>
 	</ul>
-	<h2><a id="user-content-工作經驗" class="kevin" href=""></a>工作經驗</h2>
-	<h4>國立臺灣師範大學（進修推廣學院）- 2012 04-09 ~ 2017 （仍在職）</h4>
+	<h2><a id="user-content-工作經驗" class="kevin" href="#工作經驗"></a>工作經驗</h2>
+	<h4>國立臺灣師範大學（進修推廣學院）- 2012 04 ~ 2017 （現職）</h4>
 	<ul>
-	  <li>公司同仁、電腦教室資訊設備操作檢修。</li>
-	  <li>伺服器網站管理維護。</li>
-	  <li>協助處理網路管理及有線無線網路設定及問題排除。</li>
-	  <li>網頁開發(PHP)。</li>
+	  <li>資訊設備維護及操作</li>
+	  <li>伺服器網站管理維護</li>
+	  <li>管理防火牆及無線網路與疑難排除</li>
+	  <li>網頁開發(PHP)</li>
 	</ul>
-	<h2><a id="user-content-技能" class="kevin" href=""></a>技能</h2>
-	<h3><a id="user-content-htmlcss" class="kevin" href=""></a>HTML/CSS</h3>
+	<h2><a id="user-content-Front-End專業技能" class="kevin" href="#Front-End專業技能"></a>Front-End專業技能</h2>
+	<!-- <h3><a id="user-content-htmlcss" class="kevin" href=""></a>HTML/CSS</h3> -->
 	<ul>
-	  <li>瞭解 HTML 語意。</li>
-	  <li>能夠使用CSS做出網頁排版。</li>
+	  <li>熟悉 HTML + CSS 完成頁面架構和布局</li>
+	  <li>了解 js 、jquery 基本語法</li>
+	  <li>利用AJAX撈取遠端JSON資料並顯示在網頁上</li>
+	  <li>了解 Git / Github 與基本指令運用</li>
 	</ul>
-	<h3><a id="user-content-gitgithub" class="kevin" href=""></a>Git/GitHub</h3>
+	<!-- <h2><a id="user-content-作品集" class="kevin" href="#"></a>Portfolio 作品集</h2> -->
+	<h2><a id="user-content-自介與自我期許" class="kevin" href="#自介與自我期許"></a>自介與自我期許</h2>
 	<ul>
-	  <li>能夠使用 GitHub Pages 建立一個靜態網頁。</li>
-	  <li>對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。</li>
-	</ul>
-	<!-- <h2><a id="user-contnet-作品" href=""></a>作品</h2>
-	<ul>
-		<li></li>
-		<li></li>
-	</ul> -->
-	<h2><a id="user-content-自我介紹" class="kevin" href=""></a>自我介紹</h2>
-	<ul>
-	  <li>因工作關係接觸到前端及後端，起初抱持著試試看心態去卻漸漸轉變為熱愛的興趣之一，希望有朝一日能夠成為出色的工程師。</li>
-	  <li>喜歡多方思考、分析，提升解決問題能力。</li>
-	  <li>樂於涉取多元技術及知識，累積實作經驗。</li>
-	  <li>積極溝通，有效達成團隊目標。</li>
+	  <li>因工作關係開始接觸coding，漸漸對coding有興趣</li>
+	  <li>開始透過自學與線上課程方式增進自己專業能力</li>
+	  <li>樂於涉取多元技術及知識，累積實作經驗</li>
+	  <li>積極溝通，有效達成團隊目標</li>
+	  <li>期許自己不斷精進自己、希望能夠成為出色的工程師</li>
 	</ul>
 </body>
