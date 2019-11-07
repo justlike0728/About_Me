@@ -16,7 +16,7 @@
 	  <li>協助管理防火牆及無線網路與其他疑難排除</li>
 	  <li>網頁維護(PHP)</li>
 	</ul>
-	<h2><a id="user-content-Front-End專業技能" class="kevin" href="#Front-End專業技能"></a>Front-End專業技能</h2>
+	<h2><a id="user-content-專業技能" class="kevin" href="#專業技能"></a>專業技能</h2>
 	<!-- <h3><a id="user-content-htmlcss" class="kevin" href=""></a>HTML/CSS</h3> -->
 	<ul>
 	  <li>了解 HTML + CSS 完成頁面架構和布局</li>
