@@ -22,7 +22,7 @@
 	  <li>了解 HTML + CSS 完成頁面架構和布局</li>
 	  <li>了解 js 、jquery 基本語法</li>
 	  <li>了解 Git / Github 與基本指令運用</li>
-	  <li>了解Ruby on Rails 基本語法</li>
+	  <li>了解 Ruby on Rails 基本語法</li>
 	</ul>
 	<!-- <h2><a id="user-content-作品集" class="kevin" href="#"></a>Portfolio 作品集</h2> -->
 	<h2><a id="user-content-自介與自我期許" class="kevin" href="#自介與自我期許"></a>自介與自我期許</h2>
