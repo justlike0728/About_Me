@@ -9,20 +9,20 @@
 	  <li>Personal Website : <a href="http://github.com/justlike0728">http://github.com/justlike0728</a></li>
 	</ul>
 	<h2><a id="user-content-工作經驗" class="kevin" href="#工作經驗"></a>工作經驗</h2>
-	<h4>國立臺灣師範大學（進修推廣學院）- 2012 04 ~ 2017 （現職）</h4>
+	<h4>國立臺灣師範大學（進修推廣學院）- 2012 04 ~ 2019 （現職）</h4>
 	<ul>
 	  <li>資訊設備維護及操作</li>
 	  <li>伺服器網站管理維護</li>
-	  <li>管理防火牆及無線網路與疑難排除</li>
-	  <li>網頁開發(PHP)</li>
+	  <li>協助管理防火牆及無線網路與其他疑難排除</li>
+	  <li>網頁維護(PHP)</li>
 	</ul>
 	<h2><a id="user-content-Front-End專業技能" class="kevin" href="#Front-End專業技能"></a>Front-End專業技能</h2>
 	<!-- <h3><a id="user-content-htmlcss" class="kevin" href=""></a>HTML/CSS</h3> -->
 	<ul>
-	  <li>熟悉 HTML + CSS 完成頁面架構和布局</li>
+	  <li>了解 HTML + CSS 完成頁面架構和布局</li>
 	  <li>了解 js 、jquery 基本語法</li>
-	  <li>利用AJAX撈取遠端JSON資料並顯示在網頁上</li>
 	  <li>了解 Git / Github 與基本指令運用</li>
+	  <li>了解Ruby on Rails 基本語法</li>
 	</ul>
 	<!-- <h2><a id="user-content-作品集" class="kevin" href="#"></a>Portfolio 作品集</h2> -->
 	<h2><a id="user-content-自介與自我期許" class="kevin" href="#自介與自我期許"></a>自介與自我期許</h2>
